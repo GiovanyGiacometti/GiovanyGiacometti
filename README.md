@@ -1,10 +1,6 @@
 **Backend:**
 
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="17" src="https://static-00.iconduck.com/assets.00/django-original-icon-512x218-q5sykxbe.png"></code>
-<code><img height="20" src="https://icon.icepanel.io/Technology/svg/C.svg"></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/c-icon-456x512-ld9qap3k.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
 ---
 
 **Frontend:**
